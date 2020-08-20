@@ -1,0 +1,10 @@
+C:\Users\chris\source\repos\Ofgem.Calculator\bin\Ofgem.Calculator.dll
+C:\Users\chris\source\repos\Ofgem.Calculator\bin\Ofgem.Calculator.pdb
+C:\Users\chris\source\repos\Ofgem.Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chris\source\repos\Ofgem.Calculator\bin\Newtonsoft.Json.dll
+C:\Users\chris\source\repos\Ofgem.Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chris\source\repos\Ofgem.Calculator\obj\Debug\Ofgem.Calculator.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\Ofgem.Calculator\obj\Debug\Ofgem.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Ofgem.Calculator\obj\Debug\Ofgem.Calculator.csproj.CopyComplete
+C:\Users\chris\source\repos\Ofgem.Calculator\obj\Debug\Ofgem.Calculator.dll
+C:\Users\chris\source\repos\Ofgem.Calculator\obj\Debug\Ofgem.Calculator.pdb
