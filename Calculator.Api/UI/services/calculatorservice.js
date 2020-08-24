@@ -6,9 +6,6 @@
             return $http.get(url, { params: data });
         
        };
-
-        
-
         return calculatorFactory;
     };
     app.factory("calculatorService", calculatorService);
