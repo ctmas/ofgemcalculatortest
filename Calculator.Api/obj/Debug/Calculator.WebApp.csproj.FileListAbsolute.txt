@@ -86,7 +86,6 @@ C:\Users\chris\source\repos\Ofgem.Calculator\Calculator.Api\bin\Unity.Abstractio
 C:\Users\chris\source\repos\Ofgem.Calculator\Calculator.Api\bin\Unity.Container.pdb
 C:\Users\chris\source\repos\Ofgem.Calculator\Calculator.Api\bin\Antlr3.Runtime.pdb
 C:\Users\chris\source\repos\Ofgem.Calculator\Calculator.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\chris\source\repos\Ofgem.Calculator\Calculator.Api\obj\Debug\Calculator.WebApp.csprojAssemblyReference.cache
 C:\Users\chris\source\repos\Ofgem.Calculator\Calculator.Api\obj\Debug\Calculator.WebApp.csproj.CoreCompileInputs.cache
 C:\Users\chris\source\repos\Ofgem.Calculator\Calculator.Api\obj\Debug\Calculator.WebApp.csproj.CopyComplete
 C:\Users\chris\source\repos\Ofgem.Calculator\Calculator.Api\obj\Debug\Calculator.Api.dll
